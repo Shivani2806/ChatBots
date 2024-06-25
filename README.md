@@ -1,7 +1,6 @@
 #BASIC RASA CHATBOT
-Prerequisites
 
-- Python 3.7 or higher
+- prerequisites Python 3.7 or higher
 - pip (Python package installer)# Basic Rasa Chatbot
 - Create a virtual environment
 - install rasa
