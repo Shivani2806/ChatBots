@@ -1,0 +1,6 @@
+version: "3.0"
+intents:
+  - greet
+responses:
+  utter_greet:
+    - text: "Hello! How can I help you?"
